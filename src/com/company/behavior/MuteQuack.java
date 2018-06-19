@@ -1,4 +1,4 @@
-package com.company;
+package com.company.behavior;
 
 public class MuteQuack implements QuackBehavior {
     public void quack() {

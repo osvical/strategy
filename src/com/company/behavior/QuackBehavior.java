@@ -1,4 +1,4 @@
-package com.company;
+package com.company.behavior;
 
 public interface QuackBehavior {
     void quack();

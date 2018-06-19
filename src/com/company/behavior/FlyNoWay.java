@@ -1,4 +1,4 @@
-package com.company;
+package com.company.behavior;
 
 public class FlyNoWay  implements FlyBehavior{
     public void fly() {

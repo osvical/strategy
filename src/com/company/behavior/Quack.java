@@ -1,4 +1,4 @@
-package com.company;
+package com.company.behavior;
 
 public class Quack implements QuackBehavior {
     public void quack() {
